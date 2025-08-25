@@ -27,6 +27,7 @@ const config: Config = {
     "!**/public/**",
     "!**/next.config.ts",
     "!**/app/layout.tsx",
+    "!**/types/**",
   ],
   moduleNameMapper: {
     // ...
